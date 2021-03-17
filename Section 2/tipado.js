@@ -1,0 +1,2 @@
+var nombre;
+nombre = 'Ivan';
