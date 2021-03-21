@@ -1,3 +1,4 @@
+//Acceso a los atributos y metodos solo en la clase y las que heredan de esa clase
 class Padre{
     protected nombre:string
     public constructor(nombre_:string){
