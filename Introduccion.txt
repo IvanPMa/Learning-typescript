@@ -1,0 +1,7 @@
+Los Genericos
+
+TypsScript esta diseñado pra ser un lenguaje de tipado.
+En el hecho de poder tener un tipo de dato any  es basicamente
+contraproducente en el lenguaje y genera ciertos errores
+
+Por ello nacen los datos o el tipado Generico
